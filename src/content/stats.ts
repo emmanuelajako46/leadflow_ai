@@ -18,7 +18,7 @@ export const STATS_CONTENT = {
         { value: 10, prefix: '', suffix: 'K+', label: 'Leads Managed' },
         { value: 25, prefix: '$', suffix: 'M+', label: 'Pipeline Tracked' },
         { value: 32, prefix: '', suffix: '%', label: 'Average Conversion Lift' },
-        { value: 8, prefix: '', suffix: ' hrs', label: 'Saved Per Rep / Week' },
+        { value: 10, prefix: '', suffix: ' hrs', label: 'Saved Per Rep / Week' },
     ],
 
 }
