@@ -7,10 +7,10 @@ import { Rocket } from 'lucide-react';
 import Badge from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import LogoMarquee from '../ui/logoMarquee';
-import {HERO_CONTENT } from '@/content/hero';
+import { HERO_CONTENT } from '@/content/hero';
 /**
  * ============================================================
- * COMPONENT NAME: Hero
+ * COMPONENT NAME: Hero 
  * ============================================================
  * PURPOSE:
  * A modern, two-column hero section for SaaS landing pages.
